@@ -2,9 +2,6 @@
 
 ## By stephen munyao
 
-### _medicine_ landing page
-
-![Medicine](./src/images/eventguide.png)
 
 ## Table of Content
 
@@ -29,7 +26,7 @@ This is a _medicine_ website with a front-end made using React and a backend mad
 
 Rails helped in creating api endpoints that could be used by React frontend to get, post, delete and update the products and its associates.
 
-The front-end is diployed in [vercel](https://vercel.com/) hosting service while the Sinatra is hosted in [heroku](https://heroku.com/).
+
 
 ## Features
 
