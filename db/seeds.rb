@@ -87,7 +87,8 @@ Product.create(
   description:
     "The breakthrough dark marks product that works to reduce the appearance of pigmentation. Introducing NIVEA Luminous630, a product created by female scientists for women. Buy Now. 100 Years Of Experience. Get Our Newsletter.",
   image:
-    "https://images-us.nivea.com/-/media/media-center-items/6/a/c/358614-web_1010x1180_transparent_png.png",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuKoJ7vuD1cpVsok-HdIlfrmZDiWzN5GEZ8g&usqp=CAU",
+  # "https://images-us.nivea.com/-/media/media-center-items/6/a/c/358614-web_1010x1180_transparent_png.png",
   categories: "women",
   price: 475,
   in_stock: true
