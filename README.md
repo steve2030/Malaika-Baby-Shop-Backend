@@ -1,10 +1,7 @@
-# Medicine
+# Malaika Baby Store
 
-## By Maurice Nganga
+## By stephen munyao
 
-### _medicine_ landing page
-
-![Medicine](./src/images/eventguide.png)
 
 ## Table of Content
 
@@ -19,9 +16,9 @@
 
 ---
 
-_medicine_ is an online pharmacy web application meant to be help patients find their medication and health products with ease. The client can browse and see any product when they land on the page, they can choose products by category, they can select a product and be redirected to a single page where they can read more about it. In the single page they can also read reviews about the product from other usersand also be able to leave of their own about the product.
+Malaika Baby Shop is web application meant to be help parents find baby  products with ease. The client can browse and see any product when they land on the page, they can choose products by category, they can select a product and be redirected to a single page where they can read more about it. In the single page they can also read reviews about the product from other usersand also be able to leave of their own about the product.
 
-_medicine_ has both the client side and the admin dashboard. The clients who are not registered can view the product and add product to cart but they need authentication to checkout. To get athentication a user has to register if they dont have an account then register or if they have an account they can login and they will be issued with an access token that will allow them to leave a review on a product or checkout the cart.
+It has both the client side and the admin dashboard. The clients who are not registered can view the product and add product to cart but they need authentication to checkout. To get athentication a user has to register if they dont have an account then register or if they have an account they can login and they will be issued with an access token that will allow them to leave a review on a product or checkout the cart.
 
 _admin_ has all the authority to visit any part of the site plus they can visit the admin dashboard. In the dashboard they can create, delete, update, fetch all the products. They can also see all the orders and see all the users who have registered to the site.
 
@@ -29,7 +26,7 @@ This is a _medicine_ website with a front-end made using React and a backend mad
 
 Rails helped in creating api endpoints that could be used by React frontend to get, post, delete and update the products and its associates.
 
-The front-end is diployed in [vercel](https://vercel.com/) hosting service while the Sinatra is hosted in [heroku](https://heroku.com/).
+
 
 ## Features
 
@@ -90,7 +87,7 @@ To enhance or contribute on the existing project, follow these steps:
 
 ---
 
-\- Click this link to see the live website [eventguide](https://event-guide-jvquku5fg-moryno.vercel.app/)
+\- Click this link to see the live website [eventguide]()
 
 ## License
 
@@ -98,22 +95,5 @@ To enhance or contribute on the existing project, follow these steps:
 
 MIT License
 
-Copyright (c) [2022] [Maurice Nganga]
+Copyright (c) [2022] [Stephen Munyao]
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
